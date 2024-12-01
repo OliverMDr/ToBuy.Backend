@@ -1,0 +1,10 @@
+ASP.NET Backend	
+	- VCS
+	- Logging
+	- Dockerization
+	- Authentication
+	- Unit Tests
+	- Integration Tests
+	- Persistence
+	- Authorization
+ 	
