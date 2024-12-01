@@ -1,0 +1,57 @@
+# ASP.NET Specific
+bin/
+obj/
+*.dll
+*.exe
+*.log
+*.pdb
+*.cache
+*.csproj.user
+*.suo
+*.user
+*.tt
+*.rsclient
+*.ndoc
+*.tlb
+*.tlh
+*.config
+.vscode/
+
+# ASP.NET Dependency Cache
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider IDE Specific
+.idea/
+*.sln.iml
+.idea/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+.idea/libraries/
+.idea/modules.xml
+.idea/runConfigurations/
+.idea/gradle.xml
+.idea/misc.xml
+.idea/encodings.xml
+.idea/other.xml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Others
+*.vs/
+_ReSharper.Caches/
+.vscode/
+*.bak
+*.swp
+**/Backup/
+._*
